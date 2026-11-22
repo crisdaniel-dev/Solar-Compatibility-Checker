@@ -5,7 +5,7 @@ Thank you for your interest in contributing to **Solar-Compatibility-Checker**! 
 ## Step-by-Step Guide
 
 ### 1. Find or Open an Issue
-- Check the **Issues** tab to see existing tasks or bugs (especially ones labeled `good first issue` or `enhancement`).
+- Check the **Issues** tab to see existing tasks or bugs (especially ones labeled `good first issue` or `help wanted`).
 - If you want to work on an open issue, leave a brief comment letting everyone know you are picking it up before you start coding.
 - If you have a new idea or spot a bug that isn't listed yet, open a new issue first so we can discuss the approach.
 

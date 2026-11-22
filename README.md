@@ -30,3 +30,12 @@ facts was the real challenge. Every day I worked on this project, I improved a l
 fixing bugs, researching more about solar, and finding wrong calculations or logical errors. 
 Over time, my code got better. Our professor also wanted us to apply selection first, then 
 repetition, then arrays and functions, to show that we actually learned each topic.
+
+## Roadmap
+This project started as a command-line tool in C and is now expanding into an interactive web application so anyone can check solar setup compatibility directly in their browser:
+- **CLI Improvements:** Refine input handling (such as supporting lowercase product codes), clean up compatibility checks, and make the `V × A = W` wattage table easier to read.
+- **Web App Version:** Build a clean, mobile-friendly web interface (deployable via GitHub Pages) that mirrors the solar compatibility logic and provides clear upgrade recommendations.
+- **Expanded Device Profiles:** Add more solar appliances and realistic voltage/wattage thresholds while keeping the calculations transparent and easy to understand.
+
+## Contributing
+Contributions, bug fixes, feature ideas, and improvements to either the C CLI code or the upcoming web version are warmly welcome! Whether you are fixing a small logic bug, improving documentation, or helping build the web interface, feel free to open an issue to discuss an idea or fork the repository and submit a pull request. Please check `CONTRIBUTING.md` for step-by-step instructions before getting started.
